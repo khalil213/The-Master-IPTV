@@ -309,6 +309,18 @@ https://tv4.chang55.com:446/live2/tv4ch30.stream/chunks.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1, HBO Signature HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
+http://www.iamntp.com/hbo/hbo_onweb.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.upload.ee/image/11370345/HBO_Family.png",HBO Family
+http://www.iamntp.com/hbo/family_onweb.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+http://www.iamntp.com/hbo/hits_onweb.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Sinature
+http://www.iamntp.com/hbo/sig_onweb.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.upload.ee/image/11370321/cinemax.png",Cinemax
+http://www.iamntp.com/hbo/max_onweb.m3u8
+#EXTINF:-1,tvg-id="group-title"="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red By HBO
+http://www.iamntp.com/hbo/red_onweb.m3u8
 
 #Kix List:
 
